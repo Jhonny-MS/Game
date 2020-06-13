@@ -1,0 +1,569 @@
+ctjsVersion: 1.3.1
+notes: /* empty */
+libs:
+  place:
+    gridX: 1024
+    gridY: 1024
+  fittoscreen:
+    mode: scaleFit
+  mouse: {}
+  keyboard: {}
+  keyboard.polyfill: {}
+  sound.howler: {}
+  touch:
+    mousetouch: true
+  random: {}
+textures:
+  - name: BG_02_branco
+    untill: 0
+    grid:
+      - 1
+      - 1
+    axis:
+      - 0
+      - 0
+    marginx: 0
+    marginy: 0
+    imgWidth: 1117
+    imgHeight: 873
+    width: 1117
+    height: 873
+    offx: 0
+    offy: 0
+    origname: i57c63690-ff7e-41e3-9f2d-2111242bb717.png
+    source: 'C:\Users\Eu- Jhonny\Documents\Projeto\BG_02_branco.png'
+    shape: rect
+    left: 0
+    right: 1117
+    top: 0
+    bottom: 873
+    uid: 57c63690-ff7e-41e3-9f2d-2111242bb717
+    padding: 1
+  - name: botao_01
+    untill: 0
+    grid:
+      - 1
+      - 1
+    axis:
+      - 0
+      - 0
+    marginx: 0
+    marginy: 0
+    imgWidth: 637
+    imgHeight: 165
+    width: 637
+    height: 165
+    offx: 0
+    offy: 0
+    origname: i3a274b8f-797a-44e2-ac65-544cba1abaff.png
+    source: 'C:\Users\Eu- Jhonny\Documents\Projeto\botao_01.png'
+    shape: rect
+    left: 0
+    right: 637
+    top: 0
+    bottom: 165
+    uid: 3a274b8f-797a-44e2-ac65-544cba1abaff
+    padding: 1
+  - name: logo_sky
+    untill: 0
+    grid:
+      - 1
+      - 1
+    axis:
+      - 0
+      - 0
+    marginx: 0
+    marginy: 0
+    imgWidth: 311
+    imgHeight: 129
+    width: 311
+    height: 129
+    offx: 0
+    offy: 0
+    origname: i012227d0-a615-4375-be66-ff703b4c843e.png
+    source: 'C:\Users\Eu- Jhonny\Documents\Projeto\logo_sky.png'
+    shape: rect
+    left: 0
+    right: 311
+    top: 0
+    bottom: 129
+    uid: 012227d0-a615-4375-be66-ff703b4c843e
+    padding: 1
+  - name: logo_emoji_party_02_vermelho
+    untill: 0
+    grid:
+      - 1
+      - 1
+    axis:
+      - 0
+      - 0
+    marginx: 0
+    marginy: 0
+    imgWidth: 896
+    imgHeight: 502
+    width: 896
+    height: 502
+    offx: 0
+    offy: 0
+    origname: id8304172-206e-45a8-8426-74f6c521123a.png
+    source: 'C:\Users\Eu- Jhonny\Documents\Projeto\logo_emoji_party_02_vermelho.png'
+    shape: rect
+    left: 0
+    right: 896
+    top: 0
+    bottom: 502
+    uid: d8304172-206e-45a8-8426-74f6c521123a
+    padding: 1
+  - name: BG_01
+    untill: 0
+    grid:
+      - 1
+      - 1
+    axis:
+      - 0
+      - 0
+    marginx: 0
+    marginy: 0
+    imgWidth: 720
+    imgHeight: 1480
+    width: 720
+    height: 1480
+    offx: 0
+    offy: 0
+    origname: idb94e8cf-c050-486a-8c9d-ee862fb39f6d.png
+    source: 'C:\Users\Eu- Jhonny\Documents\Projeto\BG_01.png'
+    shape: rect
+    left: 0
+    right: 720
+    top: 0
+    bottom: 1480
+    uid: db94e8cf-c050-486a-8c9d-ee862fb39f6d
+    padding: 1
+  - name: Logo_emoji_party_01
+    untill: 0
+    grid:
+      - 1
+      - 1
+    axis:
+      - 0
+      - 0
+    marginx: 0
+    marginy: 0
+    imgWidth: 896
+    imgHeight: 502
+    width: 896
+    height: 502
+    offx: 0
+    offy: 0
+    origname: i8ba7711f-b16f-4125-88da-b818c8375004.png
+    source: 'C:\Users\Eu- Jhonny\Documents\Projeto\Logo_emoji_party_01.png'
+    shape: rect
+    left: 0
+    right: 896
+    top: 0
+    bottom: 502
+    uid: 8ba7711f-b16f-4125-88da-b818c8375004
+    padding: 1
+  - name: BG_02
+    untill: 0
+    grid:
+      - 1
+      - 1
+    axis:
+      - 0
+      - 0
+    marginx: 0
+    marginy: 0
+    imgWidth: 767
+    imgHeight: 716
+    width: 767
+    height: 716
+    offx: 0
+    offy: 0
+    origname: ie47e78bc-5207-4831-a175-366338e4a47d.png
+    source: 'C:\Users\Eu- Jhonny\Documents\Projeto\BG_02.png'
+    shape: rect
+    left: 0
+    right: 767
+    top: 0
+    bottom: 716
+    uid: e47e78bc-5207-4831-a175-366338e4a47d
+    padding: 1
+  - name: logo_emoji_party
+    untill: 0
+    grid:
+      - 1
+      - 1
+    axis:
+      - 0
+      - 0
+    marginx: 0
+    marginy: 0
+    imgWidth: 971
+    imgHeight: 571
+    width: 971
+    height: 571
+    offx: 0
+    offy: 0
+    origname: ibb371338-5794-4231-980c-cdea6cdd64a0.png
+    source: 'C:\Users\Eu- Jhonny\Documents\Projeto\logo_emoji_party.png'
+    shape: rect
+    left: 0
+    right: 971
+    top: 0
+    bottom: 571
+    uid: bb371338-5794-4231-980c-cdea6cdd64a0
+    padding: 1
+  - name: logo_emoji_party_02
+    untill: 0
+    grid:
+      - 1
+      - 1
+    axis:
+      - 0
+      - 0
+    marginx: 0
+    marginy: 0
+    imgWidth: 971
+    imgHeight: 571
+    width: 971
+    height: 571
+    offx: 0
+    offy: 0
+    origname: i334aa140-b4c8-41d4-a614-89b6cd1a9a35.png
+    source: 'C:\Users\Eu- Jhonny\Documents\Projeto\logo_emoji_party_02.png'
+    shape: rect
+    left: 0
+    right: 971
+    top: 0
+    bottom: 571
+    uid: 334aa140-b4c8-41d4-a614-89b6cd1a9a35
+    padding: 1
+skeletons: []
+types:
+  - name: botao_play
+    depth: 0
+    oncreate: ''
+    onstep: |-
+      if (ct.touch.collideUi(this)){
+      ct.rooms.switch('InGame')
+      }
+    ondraw: ''
+    ondestroy: ''
+    uid: 2950e7e0-1ec9-4fb2-91a0-f3ae1eb10632
+    texture: 3a274b8f-797a-44e2-ac65-544cba1abaff
+    extends: {}
+    lastmod: 1591830351208
+  - name: b_help
+    depth: 0
+    oncreate: ''
+    onstep: >-
+      if (ct.touch.collideUi(this)) {
+
+
+      this.tips = new PIXI.Text('Seu irmão é o cara mais popular' , 
+      ct.styles.get('Help'));
+
+      this.addChild(this.tips);
+
+
+      this.tips.x = -600;
+
+      this.tips.y = -300;
+
+
+      //this.countLife--;
+
+
+
+      }
+    ondraw: ''
+    ondestroy: ''
+    uid: 47fe7883-8953-4040-9c6c-c3a5e0172126
+    texture: 3a274b8f-797a-44e2-ac65-544cba1abaff
+    extends: {}
+    lastmod: 1591995085111
+sounds: []
+styles: []
+rooms:
+  - name: Start
+    oncreate: ''
+    onstep: ''
+    ondraw: ''
+    onleave: ''
+    width: 720
+    height: 1280
+    backgrounds:
+      - depth: -20
+        texture: db94e8cf-c050-486a-8c9d-ee862fb39f6d
+        extends:
+          repeat: no-repeat
+    copies:
+      - x: 120
+        'y': 764
+        uid: 2950e7e0-1ec9-4fb2-91a0-f3ae1eb10632
+        tx: 0.8
+        ty: 0.8
+    tiles:
+      - depth: -10
+        tiles: []
+    uid: 96652444-001a-4895-a4de-4bf887b4b9a8
+    thumbnail: 4bf887b4b9a8
+    gridX: 64
+    gridY: 64
+    lastmod: 1591828734232
+  - name: InGame
+    oncreate: "var rounds = 1;\n\nvar m_1 = { name: 'O irmão do Jorel', emoji: '\U0001F475\U0001F350\U0001F472', ajuda: 'Seu irmão é o cara mais popular' };\nvar m_2 = { name: 'Procurando Nemo', emoji: '\U0001F50D\U0001F41F', ajuda: 'Seu irmão é o cara mais popular' };\nvar m_3 = { name: 'O irmão do Jorel', emoji: '\U0001F471‍♂\U0001F469\U0001F3FC\U0001F471‍♂\U0001F469\U0001F3FC\U0001F471‍♂\U0001F469\U0001F3FC \U0001F6CB', ajuda: 'Seu irmão é o cara mais popular' };\nvar m_4 = { name: 'O irmão do Jorel', emoji: '\U0001F3C3‍♂\U0001F4A8\U0001F414\U0001F414\U0001F414\U0001F414', ajuda: 'Seu irmão é o cara mais popular' };\nvar m_5 = { name: 'O irmão do Jorel', emoji: '\U0001F921\U0001F466\U0001F3FB\U0001F388', ajuda: 'Seu irmão é o cara mais popular' };\nvar m_6 = { name: 'O irmão do Jorel', emoji: '\U0001F469‍\U0001F466\U0001F5E3\U0001F3C3\U0001F45F⛴', ajuda: 'Seu irmão é o cara mais popular' };\nvar m_7 = { name: 'O irmão do Jorel', emoji: '\U0001F328❄\U0001F30E\U0001F32A\U0001F690', ajuda: 'Seu irmão é o cara mais popular' };\nvar m_8 = { name: 'O irmão do Jorel', emoji: '\U0001F475\U0001F350\U0001F472', ajuda: 'Seu irmão é o cara mais popular' };\nvar m_9 = { name: 'O irmão do Jorel', emoji: '\U0001F475\U0001F350\U0001F472', ajuda: 'Seu irmão é o cara mais popular' };\nvar m_10 = { name: 'O irmão do Jorel', emoji: '\U0001F475\U0001F350\U0001F472', ajuda: 'Seu irmão é o cara mais popular' };\n\nif(rounds == 1){    \nthis.emojiLabel = new PIXI.Text(ct.random.dice(m_1.emoji, m_2.emoji, m_3.emoji, m_4.emoji, m_5.emoji, m_6.emoji, m_7.emoji));\nthis.addChild(this.emojiLabel);\nthis.emojiLabel.x = 300;\nthis.emojiLabel.y = 400;\n}\nif(this.emojiLabel == m_1.emoji){\nthis.word = new PIXI.Text('_  _ _ _ _ _  _ _  _ _ _ _ _ ');\nthis.wmovie = new PIXI.Text('Qual o nome da série: ');\nthis.addChild(this.word);\nthis.word.x = 250;\nthis.word.y = 450;\nthis.wmovie.x = 250;\nthis.wmovie.y = 350;\n} \nelse if \n(this.emojiLabel == m_2.emoji){\nthis.word = new PIXI.Text(' Procurando Nemo ');\nthis.wmovie = new PIXI.Text('Qual o nome do filme: ');\nthis.addChild(this.word);\nthis.word.x = 250;\nthis.word.y = 450;\nthis.wmovie.x = 250;\nthis.wmovie.y = 350; \n\n}\n\n\n\n\n\n\n"
+    onstep: >+
+      this.countLife = 3;
+
+      var time = 0;
+
+      this.score = 0;
+
+
+      var tempo = time ;
+
+
+
+
+
+
+
+      this.scoreLabel = new PIXI.Text('Pontuação: ' + this.score,
+      ct.styles.get('Score_Time'));
+
+      this.addChild(this.scoreLabel);
+
+      this.scoreLabel.x = 100;
+
+      this.scoreLabel.y = 90;
+
+
+      // contador de tempo para cada questão
+
+      this.timeLabel = new PIXI.Text('Tempo: ' + tempo);
+
+      this.addChild(this.timeLabel);
+
+
+      this.timeLabel.x = 450;
+
+      this.timeLabel.y = 90;
+
+
+
+      // Emojis para dicas
+
+
+
+
+      // vidas
+
+      if(this.countLife == 3){
+
+      this.life = new PIXI.Text('❤️❤️❤️');
+
+      this.addChild(this.life);
+
+      this.life.x = 200;
+
+      this.life.y = 200;
+
+      } else if (this.countLife == 2){
+
+      this.life = new PIXI.Text('❤️❤️');
+
+      this.addChild(this.life);
+
+      this.life.x = 200;
+
+      this.life.y = 200;
+
+      } else if (this.countLife == 1){
+
+      this.life = new PIXI.Text('❤️');
+
+      this.addChild(this.life);
+
+      this.life.x = 200;
+
+      this.life.y = 200;
+
+      }  
+
+    ondraw: ''
+    onleave: ''
+    width: 720
+    height: 1280
+    backgrounds:
+      - depth: -20
+        texture: db94e8cf-c050-486a-8c9d-ee862fb39f6d
+        extends:
+          repeat: no-repeat
+      - depth: -11
+        texture: 3a274b8f-797a-44e2-ac65-544cba1abaff
+        extends:
+          repeat: no-repeat
+          shiftX: 50
+          shiftY: 50
+          scaleX: 0.5
+          scaleY: 0.5
+      - depth: -10
+        texture: 3a274b8f-797a-44e2-ac65-544cba1abaff
+        extends:
+          repeat: no-repeat
+          shiftX: 420
+          shiftY: 50
+          scaleX: 0.4
+          scaleY: 0.5
+      - depth: 0
+        texture: 3a274b8f-797a-44e2-ac65-544cba1abaff
+        extends:
+          repeat: no-repeat
+          shiftX: 40
+          shiftY: 500
+          scaleY: 0.8
+          scaleX: 1
+    copies:
+      - x: 240
+        'y': 816
+        uid: 47fe7883-8953-4040-9c6c-c3a5e0172126
+        tx: 0.4
+        ty: 0.4
+    tiles:
+      - depth: -10
+        tiles: []
+    uid: 32a3d336-cec5-47b0-a96c-6894156b325d
+    thumbnail: 6894156b325d
+    gridX: 64
+    gridY: 64
+    lastmod: 1592005544840
+  - name: Finish
+    oncreate: ''
+    onstep: ''
+    ondraw: ''
+    onleave: ''
+    width: 720
+    height: 1280
+    backgrounds:
+      - depth: 0
+        texture: db94e8cf-c050-486a-8c9d-ee862fb39f6d
+        extends:
+          repeat: no-repeat
+    copies: []
+    tiles:
+      - depth: -10
+        tiles: []
+    uid: 01d14b00-cea6-4732-82bc-0f5022c48e60
+    thumbnail: 0f5022c48e60
+    gridX: 64
+    gridY: 64
+    lastmod: 1591828920261
+actions: []
+emitterTandems: []
+starting: 0
+settings:
+  minifyhtmlcss: false
+  minifyjs: false
+  fps: 60
+  version:
+    - 0
+    - 0
+    - 0
+  versionPostfix: ''
+  usePixiLegacy: true
+  export:
+    windows: true
+    linux: true
+    mac: true
+  branding:
+    icon: -1
+    accent: '#446adb'
+    invertPreloaderScheme: true
+scripts: []
+fonts:
+  - typefaceName: PFDinTextPro-Bold
+    weight: 400
+    italic: false
+    uid: 13a08a7a-78b5-4e44-b543-970d8c9d7ad9
+    origname: f13a08a7a-78b5-4e44-b543-970d8c9d7ad9.ttf
+    lastmod: 1591828401638
+  - typefaceName: PFDinTextPro-LightItalic
+    weight: 400
+    italic: false
+    uid: 38e69d44-76f8-46dd-a06b-a5ad5f81a869
+    origname: f38e69d44-76f8-46dd-a06b-a5ad5f81a869.ttf
+    lastmod: 1591828401639
+  - typefaceName: PFDinTextPro-Medium
+    weight: 400
+    italic: false
+    uid: f50f815c-9b0a-4e74-865d-f7a10bddf7fb
+    origname: ff50f815c-9b0a-4e74-865d-f7a10bddf7fb.ttf
+    lastmod: 1591828401644
+  - typefaceName: PFDinTextPro-MedItalic
+    weight: 400
+    italic: false
+    uid: ef8d2d22-45be-4b6d-9904-ac971aef3660
+    origname: fef8d2d22-45be-4b6d-9904-ac971aef3660.ttf
+    lastmod: 1591828401644
+  - typefaceName: PFDinTextPro-Regular
+    weight: 400
+    italic: false
+    uid: de7b07f7-b4ab-441d-ad54-391a3bb71460
+    origname: fde7b07f7-b4ab-441d-ad54-391a3bb71460.ttf
+    lastmod: 1591828401644
+  - typefaceName: PFDinTextPro-ThinItalic
+    weight: 400
+    italic: false
+    uid: 6ef18a29-2ef0-47af-a2ee-3d0946f9bf75
+    origname: f6ef18a29-2ef0-47af-a2ee-3d0946f9bf75.ttf
+    lastmod: 1591828401644
+  - typefaceName: PFDinTextPro-Light
+    weight: 400
+    italic: false
+    uid: 11135f3e-b565-4e84-a241-3a0739bb7eff
+    origname: f11135f3e-b565-4e84-a241-3a0739bb7eff.ttf
+    lastmod: 1591828401644
+  - typefaceName: PFDinTextPro-XBlack
+    weight: 400
+    italic: false
+    uid: 2cc9ecc8-901e-4c6e-8bbe-97f948496672
+    origname: f2cc9ecc8-901e-4c6e-8bbe-97f948496672.ttf
+    lastmod: 1591828401644
+  - typefaceName: PFDinTextPro-Thin
+    weight: 400
+    italic: false
+    uid: a72527db-b3d0-41a0-837f-e87d1317a8a3
+    origname: fa72527db-b3d0-41a0-837f-e87d1317a8a3.ttf
+    lastmod: 1591828401644
+  - typefaceName: PFDinTextPro-Italic
+    weight: 400
+    italic: false
+    uid: 50623c36-0626-4e54-b76f-157766adff54
+    origname: f50623c36-0626-4e54-b76f-157766adff54.ttf
+    lastmod: 1591828401644
+  - typefaceName: PFDinTextPro-BoldItal
+    weight: 400
+    italic: false
+    uid: b7b24396-8a0e-4b8f-b85c-312798ca5304
+    origname: fb7b24396-8a0e-4b8f-b85c-312798ca5304.ttf
+    lastmod: 1591828401644
+  - typefaceName: PFDinTextPro-XThinItalic
+    weight: 400
+    italic: false
+    uid: 5a2a3d47-fe6b-4b93-92aa-23ed4fab4b3d
+    origname: f5a2a3d47-fe6b-4b93-92aa-23ed4fab4b3d.ttf
+    lastmod: 1591828401735
+  - typefaceName: PFDinTextPro-XThin
+    weight: 400
+    italic: false
+    uid: dd426ea3-3c94-4069-bd39-353552adcd6e
+    origname: fdd426ea3-3c94-4069-bd39-353552adcd6e.ttf
+    lastmod: 1591828401746
+  - typefaceName: PFDinTextPro-XBlackItalic
+    weight: 400
+    italic: false
+    uid: 03ee349a-ec35-4f76-b95e-1b4cea65036f
+    origname: f03ee349a-ec35-4f76-b95e-1b4cea65036f.ttf
+    lastmod: 1591828401793
